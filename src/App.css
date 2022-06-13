@@ -20,12 +20,6 @@
   border-radius: 5px 5px;
   box-shadow: 2px 1px 2px 3px #ccc;
 }
-.card p span {
-  color: blueviolet;
-  font-size: 25px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-  
-}
 .card img {
   border-radius: 5px 5px 0px 0px;
   
@@ -43,10 +37,7 @@
   justify-content: center;
   align-items: center;
 }
-/* .form_card{
-background-color: aqua;
-padding: ;
-} */
+
 
 
 
@@ -55,8 +46,8 @@ padding: ;
   background-color: rgb(35, 63, 49);
  padding: 10px 38px;
  text-align: center;
-
  }
+ 
  .header_location h2 {
   color: aliceblue;
 
