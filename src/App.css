@@ -46,6 +46,7 @@
   background-color: rgb(35, 63, 49);
  padding: 10px 38px;
  text-align: center;
+ display: block;
  }
  
  .header_location h2 {
