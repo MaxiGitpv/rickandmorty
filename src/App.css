@@ -72,6 +72,7 @@
     display: flex;
     text-align: start;
     flex-direction: column;
+    gap: 10px;
   }
   .header_location ul li span {
     color: blueviolet;

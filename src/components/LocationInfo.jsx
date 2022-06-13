@@ -5,7 +5,7 @@ const LocationInfo = ({location}) => {
 // console.log(location)
 
   return (
-    <article className='header_location'>
+    <div className='header_location'>
         <h2>Rick And Morty</h2>
         <ul>
             <li><span>Nombre: </span>{location?.name}</li>
@@ -13,7 +13,7 @@ const LocationInfo = ({location}) => {
             <li><span>Dimension: </span>{location?.dimension}</li>
             <li><span>Population: </span>{location?.residents.length}</li>
         </ul>
-    </article>
+    </div>
   )
 }
 
