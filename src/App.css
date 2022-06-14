@@ -45,13 +45,13 @@
 .header_location{
   background-color: rgb(35, 63, 49);
  padding: 10px 38px;
- text-align: center;
+ margin: 0 auto;
  display: block;
  }
  
  .header_location h2 {
   color: aliceblue;
-
+text-align: center;
  }
 
 
